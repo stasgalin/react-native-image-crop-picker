@@ -1,0 +1,62 @@
+{
+  "_args": [
+    [
+      "github:Live2Leave/react-native-image-crop-picker",
+      "/Users/doit-user/Documents/projects/live2leave-mobile"
+    ]
+  ],
+  "_from": "github:Live2Leave/react-native-image-crop-picker",
+  "_id": "react-native-image-crop-picker@github:Live2Leave/react-native-image-crop-picker#ff34caba70762c382d23434371da0ec7b45c4caa",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-image-crop-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:Live2Leave/react-native-image-crop-picker",
+    "rawSpec": "github:Live2Leave/react-native-image-crop-picker",
+    "saveSpec": "github:Live2Leave/react-native-image-crop-picker",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:Live2Leave/react-native-image-crop-picker#ff34caba70762c382d23434371da0ec7b45c4caa",
+  "_spec": "github:Live2Leave/react-native-image-crop-picker",
+  "_where": "/Users/doit-user/Documents/projects/live2leave-mobile",
+  "author": {
+    "name": "Ivan Pusic"
+  },
+  "bugs": {
+    "url": "https://github.com/ivpusic/react-native-image-crop-picker/issues"
+  },
+  "description": "Select single or multiple images, with cropping option",
+  "homepage": "https://github.com/ivpusic/react-native-image-crop-picker#readme",
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "image",
+    "picker",
+    "crop",
+    "cropping",
+    "multiple",
+    "camera"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-image-crop-picker",
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivpusic/react-native-image-crop-picker.git"
+  },
+  "scripts": {
+    "prepublish": "rm -rf android/build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.21.1"
+}
